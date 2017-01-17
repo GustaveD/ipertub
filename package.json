@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/GustaveD/ipertub/issues"
   },
-  "homepage": "https://github.com/GustaveD/ipertub#readme"
+  "homepage": "https://github.com/GustaveD/ipertub#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "path": "^0.12.7"
+  }
 }
